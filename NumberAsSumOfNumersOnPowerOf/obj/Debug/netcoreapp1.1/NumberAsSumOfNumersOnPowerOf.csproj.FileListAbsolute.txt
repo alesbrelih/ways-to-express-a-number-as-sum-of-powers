@@ -1,0 +1,10 @@
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\bin\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.deps.json
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\bin\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.runtimeconfig.json
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\bin\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.runtimeconfig.dev.json
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\bin\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.dll
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\bin\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.pdb
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\obj\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.csprojResolveAssemblyReference.cache
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\obj\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.csproj.CoreCompileInputs.cache
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\obj\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.AssemblyInfo.cs
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\obj\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.dll
+C:\Users\ales\source\repos\NumberAsSumOfNumersOnPowerOf\NumberAsSumOfNumersOnPowerOf\obj\Debug\netcoreapp1.1\NumberAsSumOfNumersOnPowerOf.pdb
